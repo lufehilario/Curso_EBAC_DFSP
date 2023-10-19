@@ -1,0 +1,87 @@
+*{
+    background-color: #eaecec;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1366;
+    margin:0 auto;
+}
+
+.artigo{
+    display: flex  ;
+    background-color: ;
+}
+
+.artigo article img{
+    height: 180px;
+}
+h1{
+    background-color: rgb(38, 0, 255);    
+    color:white;
+    text-align: center;
+}
+
+li{
+    text-transform: uppercase;   
+    display: inline;
+    text-align: right;
+    word-spacing: 10px;;
+}
+
+.article{
+    width: auto;
+}
+
+time{
+    color:grey
+}
+
+#news{
+    background-color:rgb(55, 43, 226);
+}
+
+#music{
+    background-color: rgb(226, 177, 43);
+}
+
+#sport{
+    background-color: rgb(43, 226, 89);
+}
+
+#economy{
+    background-color: darkred;
+}
+
+#news h2 {
+    color:rgb(55, 43, 226);
+}
+
+#music h2{
+    color:rgb(226, 177, 43);
+}
+
+#sport h2{
+    color:rgb(43, 226, 89);
+}
+
+#economy h2{
+    color:darkred;
+}
+
+
+#news h3 {
+    color:rgb(55, 43, 226);
+}
+
+#music h3{
+    color:rgb(226, 177, 43);
+}
+
+#sport h3{
+    color:rgb(43, 226, 89);
+}
+
+#economy h3{
+    color:darkred;
+}
